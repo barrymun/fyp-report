@@ -1,0 +1,56 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {subsection}{\numberline {1.1}Background}{1}
+\contentsline {subsection}{\numberline {1.2}Project Definitions}{2}
+\contentsline {subsubsection}{\numberline {1.2.1}Stop}{2}
+\contentsline {subsubsection}{\numberline {1.2.2}Connection}{2}
+\contentsline {subsubsection}{\numberline {1.2.3}Leg}{2}
+\contentsline {subsubsection}{\numberline {1.2.4}Route}{3}
+\contentsline {subsubsection}{\numberline {1.2.5}Path}{3}
+\contentsline {subsection}{\numberline {1.3}Motivation}{4}
+\contentsline {subsection}{\numberline {1.4}Research Objectives}{8}
+\contentsline {subsection}{\numberline {1.5}Challenges}{10}
+\contentsline {subsection}{\numberline {1.6}Overview of Technical Approach}{12}
+\contentsline {subsection}{\numberline {1.7}Report Structure}{13}
+\contentsline {section}{\numberline {2}Literature Review}{14}
+\contentsline {subsection}{\numberline {2.1}Construction of Complete Paths}{14}
+\contentsline {subsubsection}{\numberline {2.1.1}Introduction to Graph Theory}{14}
+\contentsline {subsubsection}{\numberline {2.1.2}Mapping Stops and Connections}{15}
+\contentsline {subsubsection}{\numberline {2.1.3}Path definition with respect to the CPCS}{16}
+\contentsline {subsubsection}{\numberline {2.1.4}The purpose of complete and partial Paths}{17}
+\contentsline {subsubsection}{\numberline {2.1.5}Dijkstra\IeC {\textquoteright }s Algorithm}{17}
+\contentsline {subsubsection}{\numberline {2.1.6}How does Dijkstra\IeC {\textquoteright }s Algorithm work?}{17}
+\contentsline {subsubsection}{\numberline {2.1.7}The Cypher Query Language}{20}
+\contentsline {subsubsection}{\numberline {2.1.8}Dijkstra's Algorithm and the Cypher Query Language}{21}
+\contentsline {subsection}{\numberline {2.2}Directed Graphs}{22}
+\contentsline {subsubsection}{\numberline {2.2.1}Definition of a Directed Graph}{22}
+\contentsline {subsubsection}{\numberline {2.2.2}Trafiklab (TFLB)}{23}
+\contentsline {subsubsection}{\numberline {2.2.3}Directed Graphs and the CPCS}{23}
+\contentsline {subsubsection}{\numberline {2.2.4}Neo4j Trafiklab Route Mapping}{26}
+\contentsline {subsubsection}{\numberline {2.2.5}The Haversine Formula}{28}
+\contentsline {section}{\numberline {3}Methods and Design}{29}
+\contentsline {subsection}{\numberline {3.1}Background Information}{29}
+\contentsline {subsection}{\numberline {3.2}Route Data, Directed Graph Insertion Mapping}{29}
+\contentsline {subsection}{\numberline {3.3}Design Phase by Section Analysis}{30}
+\contentsline {subsubsection}{\numberline {3.3.1}Section A}{32}
+\contentsline {subsubsection}{\numberline {3.3.2}Section B}{32}
+\contentsline {subsubsection}{\numberline {3.3.3}Section C}{35}
+\contentsline {subsubsection}{\numberline {3.3.4}Section D}{35}
+\contentsline {subsubsection}{\numberline {3.3.5}Section E}{35}
+\contentsline {subsubsection}{\numberline {3.3.6}Section F}{36}
+\contentsline {subsubsection}{\numberline {3.3.7}Section G}{36}
+\contentsline {subsubsection}{\numberline {3.3.8}Section H}{36}
+\contentsline {subsection}{\numberline {3.4}Design and Edge Direction}{37}
+\contentsline {subsection}{\numberline {3.5}Graph Database Cache Eviction Policy}{39}
+\contentsline {subsection}{\numberline {3.6}Manipulation of Requested Trafiklab Information}{40}
+\contentsline {section}{\numberline {4}Implementation and Evaluation}{42}
+\contentsline {subsection}{\numberline {4.1}Brief Overview}{42}
+\contentsline {subsection}{\numberline {4.2}Required Software and Applications}{43}
+\contentsline {subsection}{\numberline {4.3}Technical Challenges - Design Suitability}{46}
+\contentsline {subsection}{\numberline {4.4}MVC Architecture}{48}
+\contentsline {section}{\numberline {5}Results and Conclusions}{49}
+\contentsline {subsection}{\numberline {5.1}Analysis}{49}
+\contentsline {subsection}{\numberline {5.2}Concluding Remarks}{57}
+\contentsline {subsection}{\numberline {5.3}Future Work}{58}
+\contentsline {section}{\numberline {6}Bibliography}{60}
+\contentsline {section}{\numberline {7}Electronic Sources and Resources}{63}
